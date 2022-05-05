@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+}
+
+#score{
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+#timer{
+    float: right;
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+#sketch_to_be_drawn{
+font-size: 22px;
+color: blue;
+font-family: 'Times New Roman', Times, serif;
+}
